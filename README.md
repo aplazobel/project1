@@ -1,6 +1,6 @@
 
 
-!(http://url/to/img.png)
+![Image of Yaktocat](https://www.askideas.com/media/08/Funny-Shark-Smiley-Face.jpg)
 
 # Project global-shark-attacks
 
@@ -12,5 +12,5 @@ First of all I started by dropping the empty rows or those that did not offer en
 
 ## Step 2: Data Analysis and Hypotesis Testing
 In this step I provided my hypothesis, which is the following:
-### -Most provoked attacks happened to swimmers
+        Most provoked attacks happened to swimmers
 To do so I was meant to compare the number of provoked attacks to those suffered by swimmers and try to find a correlation
