@@ -1,6 +1,6 @@
 
 
-![alt text](http://url/to/img.png)
+!(http://url/to/img.png)
 
 # Project global-shark-attacks
 
